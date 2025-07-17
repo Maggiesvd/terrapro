@@ -4,7 +4,7 @@ resource "azurerm_resource_group" "terraazure" {
 
 }
 
-resource "azurerm_resource_group" "terranow" {
-    name     = "terranow"
+resource "azurerm_resource_group" "terranow30" {
+    name     = "terranow30"
     location = "East US"
 }
