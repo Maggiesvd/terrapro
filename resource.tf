@@ -1,5 +1,5 @@
-resource "azurerm_resource_group" "terragit" {
-    name     = "handsongit"
+resource "azurerm_resource_group" "terraazure" {
+    name     = "terraazure"
     location = "East US"
 
 }
