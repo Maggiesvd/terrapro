@@ -3,3 +3,8 @@ resource "azurerm_resource_group" "terragit" {
     location = "East US"
 
 }
+
+resource "azurerm_resource_group" "terranow" {
+    name     = "terranow"
+    location = "East US"
+}
