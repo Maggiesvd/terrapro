@@ -1,5 +1,5 @@
-resource "azurerm_resource_group" "terraazure" {
-    name     = "terraazure"
+resource "azurerm_resource_group" "terraazure30" {
+    name     = "terraazure30"
     location = "East US"
 
 }
